@@ -19,4 +19,8 @@ module.exports = [
         title: '제목5',
         content: '내용5',
     },
+    {
+        title: '제목6',
+        content: '내용6',
+    },
 ]
